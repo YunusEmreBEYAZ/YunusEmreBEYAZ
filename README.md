@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **JavaScript**
 
-- 👯 I’m looking to collaborate on **HackYourFuture**
+- 👯 I’m a student at **HackYourFuture**
 
 - 📫 How to reach me **yebeyaz@gmail.com**
 <hr>
