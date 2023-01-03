@@ -1,7 +1,7 @@
 <img src="background.jpeg">
 
 <h1 align="center"><i>Hi, I'm Yunus Emre</i></h1>
-<h2 align="center">A web developer from Netherlands</h2>
+<h2 align="center">A web developer at Netherlands</h2>
 <br>
 
 - 🔭 I’m currently working on **JavaScript**
