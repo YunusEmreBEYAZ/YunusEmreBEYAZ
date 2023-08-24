@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yunus Emre</h1><br/>
 <h3 align="center">A Full stack Web developer from Netherlands</h3><br/>
 
-- 🔭 I’m currently working on [React and Docker](https://github.com/YunusEmreBEYAZ/Q-A)
+- 🔭 I’m currently working on [React](https://github.com/YunusEmreBEYAZ/Q-A)
 
 - 📫 How to reach me **<yebeyaz@gmail.com>**<br/><br/><br/>
 
