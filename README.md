@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [React](https://github.com/YunusEmreBEYAZ/Q-A)
+- 🔭 I’m currently working on [NextJs](https://nextjs.org/)
 
 - 📫 How to reach me **<yebeyaz@gmail.com>**<br/><br/><br/>
 
