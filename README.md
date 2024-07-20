@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Python] ([https://www.udemy.com/course/100-days-of-code/?couponCode=2021PM20])
+- 🔭 I’m currently working on [Python](https://www.udemy.com/course/100-days-of-code/?couponCode=2021PM20)
 
 - 📫 How to reach me **<yebeyaz@gmail.com>**<br/><br/><br/>
 
