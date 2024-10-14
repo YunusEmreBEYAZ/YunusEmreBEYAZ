@@ -1,6 +1,6 @@
 <img src="background.jpeg">
 <h1 align="center">Hi 👋, I'm Yunus Emre</h1><br/>
-<h3 align="center">A Full stack Web developer from Netherlands</h3><br/>
+<h3 align="center">A Full stack Web developer</h3><br/>
 
 
 
