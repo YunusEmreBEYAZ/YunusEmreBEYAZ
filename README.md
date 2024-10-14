@@ -21,7 +21,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=JavaScript&color=434343" />
   <img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=React&color=434343" />
-  <img src="https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS&color=434343" />
+  <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&logo=CSS3&color=434343" />
   <img src="https://img.shields.io/badge/-BootStrap-05122A?style=for-the-badge&logo=BootStrap&color=434343" />
   <img src="https://img.shields.io/badge/-TailwindCSS-05122A?style=for-the-badge&logo=TailwindCSS&color=434343" />
   <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=Python&color=434343" />
