@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on NextJs
+- 🔭 I’m currently working on Ruby on Rails
 
 - 📫 How to reach me **<yebeyaz@gmail.com>**<br/><br/><br/>
 
