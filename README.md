@@ -17,7 +17,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&color=434343" />
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-05122A?logo=ruby-on-rails&color=434343" />
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=JavaScript&color=434343" />
   <img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=React&color=434343" />
   <img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&logo=CSS3&color=434343" />
