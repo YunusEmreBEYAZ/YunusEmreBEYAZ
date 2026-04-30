@@ -69,8 +69,8 @@
 ### Connect With Me
 
 <p>
-  <b>LinkedIn:</b> <a href="https://linkedin.com/in/yunus-emre-beyaz-410063253">yunus-emre-beyaz</a><br/>
-  <b>Email:</b> <a href="mailto:yebeyaz@gmail.com">yebeyaz@gmail.com</a>
+  <b>LinkedIn:</b> <a href="https://linkedin.com/in/yunus-emre-beyaz-410063253" target="_blank">yunus-emre-beyaz</a><br/>
+  <b>Email:</b> <a href="mailto:yebeyaz@gmail.com" target="_blank">yebeyaz@gmail.com</a>
 </p>
 
 ---
